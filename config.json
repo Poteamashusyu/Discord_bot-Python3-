@@ -1,0 +1,17 @@
+{
+    "config": {
+        "version": "0.2.0",
+        "prefix": "_pcd"
+    },
+
+    "authorizer": {
+        "owner": {
+            "name": "Poteamashusyu(ユラ)",
+            "id": 252678364341469187
+        }
+    },
+
+    "SECRET": {
+        "token": "ODQzNDQ2MjAxMzc4Mjc1MzU4.YKD-fA.96EfKpJvwqTHeoDgq-k0uhTYCNA"
+    }
+}
